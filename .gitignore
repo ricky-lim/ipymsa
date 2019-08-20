@@ -11,3 +11,5 @@ ipymsa/static/
 # OS X
 .DS_Store
 .idea
+venv
+notebooks/.ipynb_checkpoints
