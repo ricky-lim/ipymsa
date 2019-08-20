@@ -3,7 +3,7 @@ ipymsa
 
 Jupyter Widget for MSA (Multiple Sequence Alignment) Viewer.
 
-For demo, please check `notebooks/demo.ipynb`.
+For demo, please check [demo.ipynb](notebooks/demo.ipynb).
 
 Installation
 ------------
