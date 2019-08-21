@@ -4,7 +4,7 @@ from traitlets import Unicode
 
 @widgets.register
 class IpyMsa(widgets.DOMWidget):
-    """An example widget."""
+    """MSA Viewer widget."""
     _view_name = Unicode('MsaView').tag(sync=True)
     _model_name = Unicode('MsaModel').tag(sync=True)
     _view_module = Unicode('ipymsa').tag(sync=True)
