@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "@jupyter-widgets/base": "^1.0.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "mem": "^5.1.1",
     "msa": "^1.0.3"
   },
