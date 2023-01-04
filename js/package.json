@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "rimraf": "^2.6.1",
-    "webpack": "^3.12.0"
+    "webpack": "^5.75.0"
   },
   "dependencies": {
     "@jupyter-widgets/base": "^1.0.0",
